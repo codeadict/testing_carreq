@@ -1,6 +1,6 @@
 # TestingCarreq
 
-Expample [ColourLovers](https://www.colourlovers.com/api) API client to show how to test Req / CarReq.
+Example [ColourLovers](https://www.colourlovers.com/api) API client to show how to test Req / CarReq.
 
 ## Testing
 
